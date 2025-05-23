@@ -26,3 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coolxaditya&show_icons=true&locale=en&layout=compact" alt="coolxaditya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coolxaditya&show_icons=true&locale=en" alt="coolxaditya" /></p>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Coolxaditya/Coolxaditya/assets/snake.svg" alt="Snake animation" />
+
