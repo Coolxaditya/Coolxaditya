@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coolxaditya&show_icons=true&locale=en" alt="coolxaditya" /></p>
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Coolxaditya/Coolxaditya/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Coolxaditya/Coolxaditya/assets/snake.yml" alt="Snake animation" />
 
