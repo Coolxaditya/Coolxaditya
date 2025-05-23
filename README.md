@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolxaditya&label=Profile%20views&color=0e75b6&style=flat" alt="coolxaditya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coolxaditya" alt="coolxaditya" /></a> </p>
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Cooldaitya/Cooldaitya/blob/master/assets/Kakashi-gif-4.gif">
 - 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **ML and Cybersecurity**
